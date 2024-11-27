@@ -1,0 +1,22 @@
+header .navbar .logo {
+    margin-right: 56rem;
+}
+.spotlight{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.spotlight .left {
+    width: 40%;
+    text-align: center;
+}
+.spotlight .left h1 {
+    margin-bottom: 3rem;
+}
+.spotlight .right {
+    width: 40%;
+}
+.spotlight .right img {
+    width: 100%;
+    display: block;
+}
